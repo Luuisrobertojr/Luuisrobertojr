@@ -23,7 +23,7 @@ Sou um **Programador Full Stack** apaixonado por criar soluções web robustas e
 <br>
 ## 🔗 Conecte-se Comigo
 <br>
-<a href="https://www.linkedin.com/in/lu%C3%ADs-roberto-almeida-junior-754b51406"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitealt=" linkedin-logo"/>
+<a href="https://www.linkedin.com/in/luisrobertoajr/"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitealt=" linkedin-logo"/>
 <a href="https://www.instagram.com/luis.robertojr/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" Instagram-logo"/>
 <br>
   
