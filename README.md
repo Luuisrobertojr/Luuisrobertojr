@@ -14,7 +14,7 @@ Sou um **Programador Full Stack** apaixonado por criar soluções web robustas e
 
 ✅ Aprimoro meus conhecimentos
 <br>
-✅ Compartilho e troco ideias com alunos do DevClub
+✅ Compartilho e troco ideias com partness do DevClub
 <br>
 ✅ Leio livros 
 <br> 
