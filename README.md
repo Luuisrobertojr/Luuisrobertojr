@@ -10,6 +10,8 @@ Sou um **Programador Full Stack** apaixonado por criar soluções web robustas e
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
 <br>
 <br>
+![Node.js](https://shields.io)
+
 ## 🎯 O Que Eu Faço
 
 ✅ Aprimoro meus conhecimentos
