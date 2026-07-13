@@ -4,7 +4,7 @@ Sou um **Programador Full Stack** apaixonado por criar soluções web robustas e
 <br>
 <br>
 
-💻 Tech Stack <br>
+💻 <b>Tech Stack<b/>: <br><br>
 front-end:
  <br>
   <br>
