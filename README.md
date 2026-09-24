@@ -23,7 +23,7 @@ Back-end: <br>
 
 ✅ Aprimoro meus conhecimentos
 <br>
-✅ Compartilho e troco ideias com partness do DevClub
+✅ Compartilho e troco ideias 
 <br>
 ✅ Leio livros 
 <br> 
